@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/rem-doloremque-possimus-ratione",
-  "version": "2.5.35",
+  "version": "2.5.36",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -503,5 +503,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/rem-doloremque-possimus-ratione/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
